@@ -1,0 +1,9 @@
+* {
+  font-family: Helvetica;
+}
+
+body {
+  width-min: 400px;
+  width-max: 1000px;
+  margin: 0 auto;
+}
