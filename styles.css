@@ -3,7 +3,8 @@
 }
 
 body {
-  width-min: 400px;
-  width-max: 1000px;
-  margin: 0 auto;
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
 }
